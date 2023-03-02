@@ -1,0 +1,724 @@
+,Customer ID,order_id,p_brand,brand_name,customer_gender,Name ,Gender
+0,C31,1,Mahi,0,(null),Radene,MALE
+1,C32,4,Donuts,Aapno Rajasthan,(null),Rader,MALE
+2,C33,3,Zippo,0,(null),Radford,MALE
+3,C34,3,Intex,Ruosh,(null),Radha,MALE
+4,C35,1,Wardrobe,0,(null),Radhames,FEMALE
+5,C36,1,Logitech,navyasa by liva,(null),Radhika,FEMALE
+6,C38,1,Philips,Biba,(null),Radia,MALE
+7,C39,2,Apple,0,(null),Radiah,MALE
+8,C40,1,AMZER,0,(null),Radiance,MALE
+9,C41,1,GAP,0,(null),Radie,FEMALE
+10,C43,3,ETA,0,(null),Radine,MALE
+11,C44,1,Zudio,0,(null),Radiya,FEMALE
+12,C46,1,Westside Home,0,(null),Radley,FEMALE
+13,C47,1,ETA,0,(null),Radly,MALE
+14,C48,3,Damensch,0,(null),Radoika,MALE
+15,C49,1,Mochi,0,(null),Radonna,MALE
+16,C50,3,W,0,(null),Radoslav,MALE
+17,C51,11,Cherokee,0,(null),Radric,FEMALE
+18,C52,2,Fruit of the loom,0,(null),Radu,MALE
+19,C53,1,Y&F,0,(null),Radwa,MALE
+20,C54,11,Gia,0,(null),Radwan,MALE
+21,C55,13,Maybelline New York,0,(null),Radyn,MALE
+22,C56,1,Jockey,0,(null),Rae,MALE
+23,C57,1,New Look,0,(null),Raea,MALE
+24,C58,13,Simon Carter London,0,(null),Raeah,MALE
+25,C59,4,Amante,Boat,(null),Raeana,MALE
+26,C60,3,ColorPlus,Energea,(null),Raeanah,MALE
+27,C61,1,Zudio,Van Heusen,(null),Raeann,FEMALE
+28,C62,6,Mufti,0,(null),Raeanna,MALE
+29,C63,1,Samsung,Arrow,(null),Raeanne,FEMALE
+30,C64,2,Circle,0,(null),Raeburn,MALE
+31,C65,10,GUBB,Femora,(null),Raechal,MALE
+32,C66,2,AND,0,(null),Raechel,MALE
+33,C67,1,Puma,Sony,(null),Raechell,FEMALE
+34,C68,11,Utsa,0,(null),Raechelle,FEMALE
+35,C69,2,adidas,0,(null),Raed,MALE
+36,C70,1,Colt,Black Panther Sports,(null),Raedawn,MALE
+37,C71,13,Steve Madden,0,(null),Raedean,MALE
+38,C72,1,Amante,0,(null),Raeden,MALE
+39,C73,2,Puma,0,(null),Raedene,FEMALE
+40,C74,3,Neutriderm,0,(null),Raedon,MALE
+41,C75,3,HOP,Clay Craft,(null),Raedyn,FEMALE
+42,C76,30,Globus,Reebok,(null),Raeed,FEMALE
+43,C78,2,Hangup,0,(null),Raeesah,MALE
+44,C79,1,Philips,0,(null),Raef,MALE
+45,C80,2,Jockey,Spigen,(null),Raeford,MALE
+46,C81,2,ID,0,(null),Raegan,MALE
+47,C82,5,Zuba,W,(null),Raegann,MALE
+48,C83,1,Gia,0,(null),Raegen,MALE
+49,C84,1,Kate Spade,0,(null),Raegene,FEMALE
+50,C86,3,Vark,Aldo,(null),Raegin,FEMALE
+51,C87,1,Zebronics,0,(null),Raegina,FEMALE
+52,C88,4,Baggit,Puma,(null),Raegine,MALE
+53,C89,12,SELECTED HOMME,0,(null),Raegyn,MALE
+54,C90,1,Times Prime,DDecor,(null),Raehanna,FEMALE
+55,C91,2,HOP,0,(null),Raeisha,FEMALE
+56,C92,2,Candes,0,(null),Raejean,MALE
+57,C93,1,PrettySecrets,0,(null),Raejon,FEMALE
+58,C94,1,IFB,0,(null),Raekwan,MALE
+59,C95,1,Gia,Red Chief,(null),Raekwon,MALE
+60,C96,1,Zudio,Janasya,(null),Rael,FEMALE
+61,C97,1,Homesake,0,(null),Raela,MALE
+62,C98,1,Rare Rabbit,0,(null),Raelah,MALE
+63,C99,1,Wunderlove,XYXX,(null),Raelan,FEMALE
+64,C100,1,Ambrane,0,(null),Raelea,MALE
+65,C101,1,Red Tape,0,(null),Raelean,MALE
+66,C102,1,Red Tape,0,(null),Raelee,MALE
+67,C103,1,GANT,0,(null),Raeleen,MALE
+68,C104,2,adidas,0,(null),Raelei,MALE
+69,C106,3,GAP,Fila,(null),Raelen,FEMALE
+70,C109,2,Globus,Jaquline USA,(null),Raeley,FEMALE
+71,C110,3,Boult Audio,0,(null),Raeli,FEMALE
+72,C111,2,Sony,0,(null),Raelie,FEMALE
+73,C112,1,Atomberg,0,(null),Raeliegh,MALE
+74,C113,1,Samsung,0,(null),Raelin,FEMALE
+75,C114,1,Zivame,0,(null),Raelina,MALE
+76,C115,8,Jockey,Peter England,(null),Raelinn,MALE
+77,C116,2,Voltas,XYXX,(null),Raelle,FEMALE
+78,C117,3,Utsa,EcoLink,(null),Raellen,FEMALE
+79,C118,3,Carlton London,0,(null),Raely,FEMALE
+80,C119,1,Lenovo,0,(null),Raelyn,MALE
+81,C120,2,Wunderlove,0,(null),Raelyne,FEMALE
+82,C121,3,Campus,0,(null),Raelynn,MALE
+83,C122,1,Puma,Ruosh,(null),Raelynne,FEMALE
+84,C123,1,Zudio,0,(null),Raemarie,FEMALE
+85,C124,4,Lenovo,0,(null),Raemi,MALE
+86,C125,1,Boult Audio,0,(null),Raemon,FEMALE
+87,C126,5,Elle,0,(null),Raemona,FEMALE
+88,C127,2,Fruit of the loom,0,(null),Raemond,MALE
+89,C128,11,Juniper,0,(null),Raen,MALE
+90,C129,2,Zudio,0,(null),Raena,FEMALE
+91,C130,2,Apple,0,(null),Raenada,MALE
+92,C131,1,Globus,0,(null),Raenae,FEMALE
+93,C132,1,GIVA,GIVA,(null),Raenah,MALE
+94,C133,1,Zudio,0,(null),Raene,FEMALE
+95,C134,4,Red Tape,0,(null),Raenee,MALE
+96,C135,2,Boult Audio,0,(null),Raeneisha,FEMALE
+97,C136,3,Stuffcool,0,(null),Raenell,MALE
+98,C137,1,OGIO,0,(null),Raenelle,MALE
+99,C138,2,Utsa,0,(null),Raenesha,FEMALE
+100,C139,2,ETA,Clarks,(null),Raenette,MALE
+101,C140,1,OnePlus,0,(null),Raengel,MALE
+102,C141,1,Indo Era,0,(null),Raenisha,MALE
+103,C142,1,WD,0,(null),Raeniyah,FEMALE
+104,C143,2,Sony,adidas,(null),Raenna,FEMALE
+105,C144,3,HOP,0,(null),Raeola,FEMALE
+106,C145,13,Sangam Prints,0,(null),Raeona,FEMALE
+107,C146,2,Globus,0,(null),Raeonna,FEMALE
+108,C147,4,Globus,0,(null),Raequan,FEMALE
+109,C148,3,Lenovo,0,(null),Raequawn,MALE
+110,C149,7,Boat,Boat,(null),Raequel,MALE
+111,C150,4,Saadgi,0,(null),Raequon,MALE
+112,C151,1,Zudio,0,(null),Raeqwan,FEMALE
+113,C152,2,Ambrane,0,(null),Raeqwon,MALE
+114,C153,1,Croma,0,(null),Raesean,FEMALE
+115,C154,6,Zudio,0,(null),Raesha,FEMALE
+116,C155,2,Utsa,0,(null),Raeshaun,FEMALE
+117,C156,4,Rangmanch by Pantaloons,0,(null),Raeshawn,FEMALE
+118,C157,13,Sangam Prints,0,(null),Raeshell,FEMALE
+119,C158,2,ETA,0,(null),Raeshelle,MALE
+120,C159,4,Clovia,0,(null),Raeshon,MALE
+121,C160,1,Xiaomi,0,(null),Raetta,MALE
+122,C161,1,Kingston,0,(null),Raevan,FEMALE
+123,C165,3,Panasonic,0,(null),Raevyn,FEMALE
+124,C167,1,Puma,0,(null),Raewyn,FEMALE
+125,C175,1,Mufti,Fila,(null),Rafaela,MALE
+126,C176,2,Y&F,0,(null),Rafaelita,MALE
+127,C177,1,Boat,0,(null),Rafaella,MALE
+128,C178,4,Peter England,0,(null),Rafaila,MALE
+129,C182,3,Apple,0,(null),Rafay,MALE
+130,C191,2,XYXX,Portronics,(null),Rafelita,MALE
+131,C192,8,Sangam Prints,0,(null),Rafer,FEMALE
+132,C194,1,Duke,0,(null),Raffaela,MALE
+133,C198,9,Sangam Prints,0,(null),Rafferty,FEMALE
+134,C204,1,ScratchGard,0,(null),Rafhael,FEMALE
+135,C206,4,Sangam Prints,0,(null),Rafia,FEMALE
+136,C208,2,realme,0,(null),Rafiel,MALE
+137,C209,1,Google,0,(null),Rafif,FEMALE
+138,C212,2,Jockey,0,(null),Raford,MALE
+139,C218,1,Apple,Infinity,(null),Ragen,MALE
+140,C221,1,Indo Era,0,(null),Ragenia,MALE
+141,C232,4,Donuts,0,(null),Ragnhild,MALE
+142,C238,2,Red Tape,U.S. Polo Assn.,(null),Rahaman,MALE
+143,C241,1,Zudio,0,(null),Rahat,FEMALE
+144,C242,1,OAKTER,0,(null),Rahcel,MALE
+145,C248,1,Red Tape,0,(null),Raheen,MALE
+146,C249,1,ClickCase,Google,(null),Raheim,MALE
+147,C250,1,Atomberg,0,(null),Rahel,MALE
+148,C254,1,Voltas,0,(null),Rahi,FEMALE
+149,C255,2,TATA CLiQ,0,(null),Rahib,FEMALE
+150,C261,1,Philips,Philips,(null),Rahini,MALE
+151,C262,1,Atomberg,0,(null),Rahja,MALE
+152,C264,6,adidas,0,(null),Rahjon,MALE
+153,C271,1,Xiaomi,0,(null),Rahmad,MALE
+154,C272,2,Red Tape,Bad Habit,(null),Rahmah,MALE
+155,C274,1,Khadi Essentials,0,(null),Rahmeek,MALE
+156,C277,1,adidas,0,(null),Rahmell,MALE
+157,C283,4,Sangam Prints,0,(null),Rahmon,FEMALE
+158,C284,7,Indo Era,0,(null),Rahmya,MALE
+159,C289,6,Kraus,0,(null),Rahni,FEMALE
+160,C290,8,Westside Home,Caresmith,(null),Rahniya,FEMALE
+161,C295,3,Philips,0,(null),Rahsaun,MALE
+162,C311,3,Utsa,0,(null),Raian,FEMALE
+163,C319,1,Xiaomi,0,(null),Raida,MALE
+164,C320,1,Jockey,0,(null),Raidan,MALE
+165,C338,1,ETA,0,(null),Raihaan,MALE
+166,C339,1,ETA,0,(null),Raihaanah,MALE
+167,C340,1,Bagsy Malone,0,(null),Raihan,MALE
+168,C342,6,PrettySecrets,0,(null),Raihanna,FEMALE
+169,C343,1,Motorola,0,(null),Raija,MALE
+170,C344,5,P.N.Gadgil Jewellers,0,(null),Raijon,MALE
+171,C345,1,Xiaomi,0,(null),Raika,MALE
+172,C346,9,Diza,Metro,(null),Railee,MALE
+173,C347,4,Bangalore Refinery,Malabar Gold and Diamonds,(null),Raileen,MALE
+174,C349,1,PrettySecrets,0,(null),Railey,FEMALE
+175,C350,12,GAP,Scarters,(null),Raily,FEMALE
+176,C351,1,Ambrane,0,(null),Railyn,MALE
+177,C352,1,Yepme,0,(null),Railynn,MALE
+178,C353,8,Sangam Prints,0,(null),Railynne,FEMALE
+179,C356,4,Park Avenue,0,(null),Raimee,MALE
+180,C357,2,Xiaomi,0,(null),Raimey,MALE
+181,C358,1,realme,0,(null),Raimi,MALE
+182,C359,9,Atomberg,Hawkins,(null),Raimon,MALE
+183,C361,4,s.Oliver,0,(null),Raimondo,FEMALE
+184,C362,3,SanDisk,0,(null),Raimund,MALE
+185,C363,1,PrettySecrets,0,(null),Raimundo,FEMALE
+186,C364,1,Zudio,0,(null),Rain,FEMALE
+187,C365,3,Wow Skin Science,0,(null),Raina,FEMALE
+188,C367,1,Bumzee,0,(null),Rainbow,MALE
+189,C368,1,Blackberrys,0,(null),Raine,MALE
+190,C370,1,Action,0,(null),Rainell,MALE
+191,C371,4,Miss Chase,Skechers,(null),Rainelle,MALE
+192,C372,1,Campus,0,(null),Rainen,MALE
+193,C373,3,Zudio,Nuon Men,(null),Rainer,FEMALE
+194,C374,5,Clovia,0,(null),Raines,MALE
+195,C375,1,W,0,(null),Rainey,MALE
+196,C377,2,Reebok,0,(null),Rainie,MALE
+197,C380,1,Nokia,0,(null),Rainna,FEMALE
+198,C381,2,HP,0,(null),Rainne,FEMALE
+199,C382,1,Xiaomi,0,(null),Rainy,MALE
+200,C383,2,ADATA,0,(null),Raionna,MALE
+201,C384,1,Utsa,0,(null),Raiqa,FEMALE
+202,C385,1,Apple,AD by Arvind,(null),Raiquan,MALE
+203,C386,2,Xiaomi,0,(null),Rais,MALE
+204,C387,1,ScratchGard,0,(null),Raisa,FEMALE
+205,C388,1,Wow Skin Science,0,(null),Raisah,FEMALE
+206,C390,3,Philips,0,(null),Raisha,MALE
+207,C391,1,SanDisk,0,(null),Raishaun,MALE
+208,C392,1,Fitz,0,(null),Raishawn,MALE
+209,C393,1,GAP,0,(null),Raissa,FEMALE
+210,C394,2,Khadi Essentials,0,(null),Raistlin,MALE
+211,C398,1,Apple,0,(null),Raiya,MALE
+212,C399,1,Xiaomi,0,(null),Raiyah,MALE
+213,C401,2,Biba,0,(null),Raiyana,MALE
+214,C402,5,Budding Bees,0,(null),Raiyn,MALE
+215,C404,2,Puma,0,(null),Raiyne,FEMALE
+216,C405,2,realme,0,(null),Raiza,MALE
+217,C406,1,LG,0,(null),Raizel,FEMALE
+218,C407,1,Malabar Gold and Diamonds,Malabar Gold and Diamonds,(null),Raizo,MALE
+219,C408,1,Fossil,0,(null),Raizy,FEMALE
+220,C410,2,Skinn by Titan,Louis Philippe,(null),Raja,MALE
+221,C411,1,Kraus,0,(null),Rajaa,FEMALE
+222,C412,1,Swiss Military,0,(null),Rajab,MALE
+223,C413,4,Xiaomi,0,(null),Rajae,MALE
+224,C414,3,GAP,0,(null),Rajaee,FEMALE
+225,C415,3,Skullcandy,0,(null),Rajah,MALE
+226,C416,4,Sangam Prints,0,(null),Rajahn,FEMALE
+227,C417,5,Gracit,0,(null),Rajai,MALE
+228,C418,1,Panasonic,0,(null),Rajan,FEMALE
+229,C419,1,Spunk,0,(null),Rajana,MALE
+230,C420,1,Colt,0,(null),Rajanae,MALE
+231,C421,1,Xiaomi,Titan,(null),Rajane,MALE
+232,C423,1,Nuon Men,Ascot,(null),Rajani,FEMALE
+233,C427,1,Y&F,0,(null),Rajdeep,MALE
+234,C428,6,WES Formals,Peter England,(null),Rajean,FEMALE
+235,C429,1,Philips,0,(null),Rajeana,MALE
+236,C431,2,Kingston,0,(null),Rajeeni,FEMALE
+237,C432,2,Red Tape,Titan,(null),Rajeev,MALE
+238,C433,1,Samsung,0,(null),Rajeeyah,FEMALE
+239,C434,1,TP-LINK,0,(null),Rajen,MALE
+240,C435,3,Yellow,0,(null),Rajendra,FEMALE
+241,C436,1,Wow Skin Science,0,(null),Rajene,FEMALE
+242,C437,1,Apple,0,(null),Rajesh,MALE
+243,C438,1,ColorPlus,ColorPlus,(null),Raji,MALE
+244,C439,1,Red Tape,0,(null),Rajinder,MALE
+245,C440,2,Aurelia,0,(null),Rajit,MALE
+246,C441,8,Sangam Prints,0,(null),Rajiv,FEMALE
+247,C442,1,Wow Skin Science,0,(null),Rajko,FEMALE
+248,C444,8,Sangam Prints,0,(null),Rajneesh,FEMALE
+249,C446,1,Havells,0,(null),Rajohn,MALE
+250,C447,3,Intex,Miss Chase,(null),Rajon,MALE
+251,C448,2,Westside Home,0,(null),Raju,FEMALE
+252,C449,1,Duke,0,(null),Rajuan,MALE
+253,C451,5,W,0,(null),Rajvi,MALE
+254,C452,3,Pepe Jeans,0,(null),Rajvir,MALE
+255,C453,1,Xiaomi,0,(null),Rakai,MALE
+256,C454,2,FabAlley,0,(null),Rakan,MALE
+257,C455,1,Titan,0,(null),Rakari,MALE
+258,C456,1,Boat,0,(null),Rakaya,MALE
+259,C457,5,Jaipur Kurti,Louis Philippe,(null),Rakayla,MALE
+260,C458,6,Zudio,0,(null),Rakeb,FEMALE
+261,C459,1,Philips,Philips,(null),Rakee,MALE
+262,C460,5,Samsung,Puma,(null),Rakeem,FEMALE
+263,C463,1,Indo Era,0,(null),Rakeim,MALE
+264,C464,3,Intex,0,(null),Rakeisha,MALE
+265,C465,2,Pantaloons Junior,0,(null),Rakel,FEMALE
+266,C466,8,Strontium,Allen cooper,(null),Rakell,MALE
+267,C467,1,Apple,0,(null),Rakelle,MALE
+268,C469,1,Wow Skin Science,0,(null),Rakeria,FEMALE
+269,C470,2,OAKTER,0,(null),Rakesh,MALE
+270,C471,2,Atomberg,0,(null),Rakesha,MALE
+271,C473,2,Raw pressery,0,(null),Rakeya,MALE
+272,C474,1,ID,Mia by Tanishq,(null),Rakhee,MALE
+273,C475,2,WES Lounge,0,(null),Rakhi,FEMALE
+274,C476,2,Duke,0,(null),Rakhia,MALE
+275,C477,3,Voltas,MCP,(null),Rakia,FEMALE
+276,C478,2,Studiowest,0,(null),Rakiah,MALE
+277,C479,1,Dell,0,(null),Rakib,MALE
+278,C480,2,Crucial,0,(null),Rakiem,MALE
+279,C481,3,Campus,0,(null),Rakiesha,MALE
+280,C482,2,Baggit,0,(null),Rakim,MALE
+281,C483,11,Miss Chase,Being Human,(null),Rakin,MALE
+282,C484,2,WD,0,(null),Rakira,FEMALE
+283,C486,2,Usha,0,(null),Rakita,MALE
+284,C487,4,Femora,PANACHE,(null),Rakiya,FEMALE
+285,C488,1,Sunflame,0,(null),Rakiyah,FEMALE
+286,C489,1,Teakwood Leathers,0,(null),Raksha,MALE
+287,C490,1,Zudio,0,(null),Rakshan,FEMALE
+288,C491,1,OnePlus,0,(null),Rakshana,MALE
+289,C492,3,Puma,0,(null),Rakshitha,FEMALE
+290,C493,2,realme,0,(null),Raksmey,MALE
+291,C494,2,Jockey,0,(null),Rakwan,MALE
+292,C496,2,Sangam Prints,0,(null),Rakya,FEMALE
+293,C498,6,Khadi Essentials,0,(null),Rakye,MALE
+294,C499,1,Boat,0,(null),Rakyia,MALE
+295,C500,2,Jack & Jones,0,(null),Rakyla,MALE
+296,C501,1,Fire-Boltt,ClickCase,(null),Ral,MALE
+297,C502,5,Yuris,0,(null),Ralana,MALE
+298,C504,2,Wow Skin Science,0,(null),Ralanda,FEMALE
+299,C505,1,Globus,Arrow,(null),Ralee,FEMALE
+300,C507,11,Khadi Essentials,Boat,(null),Raleigh,MALE
+301,C508,2,Circle,0,(null),Ralen,MALE
+302,C510,8,Gia,LUNA BLU,(null),Ralene,MALE
+303,C511,1,Fastrack,Urbanears,(null),Raley,MALE
+304,C512,1,Crucial,0,(null),Ralf,MALE
+305,C513,2,adidas,adidas,(null),Raliegh,MALE
+306,C514,1,DAIKIN,0,(null),Raliek,MALE
+307,C515,2,Playboy,0,(null),Ralik,MALE
+308,C516,1,Tiitan,0,(null),Ralinda,MALE
+309,C517,1,Motorola,0,(null),Ralique,MALE
+310,C518,1,Apple,0,(null),Ralisha,MALE
+311,C519,3,Aurelia,Indo Era,(null),Raliyah,MALE
+312,C520,5,Lavie,0,(null),Rallie,MALE
+313,C522,2,Croma,0,(null),Rally,FEMALE
+314,C524,2,Khadi Essentials,0,(null),Ralon,MALE
+315,C525,5,Apple,0,(null),Ralonda,MALE
+316,C529,3,Utsa,0,(null),Ralphe,FEMALE
+317,C530,3,Ascot,0,(null),Ralpheal,FEMALE
+318,C532,2,Red Tape,Fastrack,(null),Ralphell,MALE
+319,C534,1,Utsa,0,(null),Ralphine,FEMALE
+320,C535,2,Mamaearth,0,(null),Ralphy,MALE
+321,C537,1,Zudio,Bianca,(null),Ralyn,FEMALE
+322,C539,3,Philips,0,(null),Ram,MALE
+323,C541,1,Utsa,0,(null),Ramada,FEMALE
+324,C542,3,Apple,0,(null),Ramadan,MALE
+325,C543,1,ADATA,0,(null),Ramah,MALE
+326,C544,2,Carrier,0,(null),Ramaj,MALE
+327,C545,2,LG,0,(null),Ramal,FEMALE
+328,C546,1,Samsung,0,(null),Raman,FEMALE
+329,C547,2,Fabindia Home,0,(null),Ramanda,MALE
+330,C548,1,Sangam Prints,0,(null),Ramandeep,FEMALE
+331,C549,9,Parx,0,(null),Ramani,MALE
+332,C550,1,Omron,0,(null),Ramar,MALE
+333,C551,5,Hopscotch,0,(null),Ramari,MALE
+334,C552,1,Utsa,0,(null),Ramario,FEMALE
+335,C554,1,UNIGEN AUDIO,0,(null),Ramata,FEMALE
+336,C555,1,Hush Puppies,0,(null),Ramatou,MALE
+337,C556,1,Philips,New Breed,(null),Ramatoulaye,MALE
+338,C564,1,Reebok,0,(null),Ramee,MALE
+339,C568,3,Red Tape,0,(null),Rameer,MALE
+340,C573,3,Bond Street by Red Tape,0,(null),Ramel,MALE
+341,C578,1,Oracura,0,(null),Ramen,MALE
+342,C580,1,OnePlus,Philips,(null),Ramero,MALE
+343,C597,1,Westside Home,0,(null),Ramil,FEMALE
+344,C598,1,GUESS,0,(null),Ramin,MALE
+345,C599,1,GM,iBELL,(null),Ramina,MALE
+346,C617,2,The Man Company,0,(null),Ramon,MALE
+347,C619,1,Puma,DOLCE CRUDO,(null),Ramoncita,FEMALE
+348,C634,4,Living Roots,LACOSTE,(null),Ramsha,MALE
+349,C660,1,realme,Boat,(null),Ranard,MALE
+350,C662,3,Globus,Yufta,(null),Ranardo,FEMALE
+351,C669,2,Philips,0,(null),Ranbir,MALE
+352,C671,10,Nike,WES Formals,(null),Rancel,MALE
+353,C672,4,Puma,0,(null),Rances,FEMALE
+354,C673,4,Khadi Natural,Puma,(null),Rand,MALE
+355,C680,1,DaMochi,0,(null),Randalph,MALE
+356,C695,1,Zudio,0,(null),Randey,FEMALE
+357,C703,7,Woodland,0,(null),Randine,FEMALE
+358,C716,1,Mufti,0,(null),Randoph,MALE
+359,C726,15,Red Tape,Hopscotch,(null),Raneen,MALE
+360,C732,1,BIOTIQUE,0,(null),Ranelle,MALE
+361,C735,8,Wrangler,adidas,(null),Raneshia,FEMALE
+362,C738,1,Times Prime,0,(null),Ranette,FEMALE
+363,C753,2,Miss Chase,0,(null),Raniesha,MALE
+364,C766,1,Philips,0,(null),Ranjani,MALE
+365,C767,1,FabAlley,0,(null),Ranjeet,MALE
+366,C770,2,Wow Skin Science,0,(null),Ranna,FEMALE
+367,C776,1,Infinity,0,(null),Ranoda,MALE
+368,C788,2,Apple,0,(null),Ranvijay,MALE
+369,C817,12,Vinod,Bergner,(null),Raquawn,MALE
+370,C822,1,Utsa,Wardrobe,(null),Raquelin,FEMALE
+371,C824,1,Tresmode,0,(null),Raquelle,MALE
+372,C826,3,Nokia,0,(null),Raquia,FEMALE
+373,C835,8,Xiaomi,0,(null),Rasaan,MALE
+374,C857,3,Tata Q,0,(null),Ladarrell,MALE
+375,C875,2,Budding Bees,Bonjour,(null),Laddie,MALE
+376,C896,2,Dreamscape,0,(null),Ladonta,MALE
+377,C901,4,Jack & Jones,0,(null),Ladrick,MALE
+378,C908,3,Jockey,SAREGAMA,(null),Lafonzo,MALE
+379,C909,10,Sangam Prints,0,(null),Lafrederick,FEMALE
+380,C913,1,Ambrane,0,(null),Lagregory,MALE
+381,C916,1,Allen Solly,The White Willow,(null),Laif,FEMALE
+382,C917,1,Carrier,0,(null),Laik,MALE
+383,C919,6,Utsa,Metro,(null),Laim,FEMALE
+384,C920,5,Westside Home,0,(null),Lain,FEMALE
+385,C934,1,LG,0,(null),Lajuan,FEMALE
+386,C935,3,Noise,0,(null),Lajuane,MALE
+387,C938,7,Homesake,0,(null),Lakayden,MALE
+388,C940,1,Raw pressery,Fabindia Home,(null),Lakedrick,MALE
+389,C942,1,Ruggers,0,(null),Lakeith,FEMALE
+390,C944,1,Boat,0,(null),Lakelan,MALE
+391,C945,2,Ed Hardy,Titan,(null),Lakeland,MALE
+392,C946,1,ColorPlus,0,(null),Lakell,MALE
+393,C948,6,Vark,AND,(null),Lakendrick,FEMALE
+394,C951,2,Apple,0,(null),Laki,MALE
+395,C957,1,Xiaomi,0,(null),Lakshman,MALE
+396,C959,4,realme,0,(null),Lakwan,MALE
+397,C961,6,Gia,LUNA BLU,(null),Lal,MALE
+398,C962,3,FabAlley,0,(null),Lalit,MALE
+399,C963,10,Hummel,Clarks,(null),Lalith,MALE
+400,C966,3,EARTH RHYTHM,Mia by Tanishq,(null),Lamaar,MALE
+401,C967,1,Sparx,0,(null),Lamaine,MALE
+402,C970,1,Timex,Puma,(null),Lamanuel,MALE
+403,C972,2,Croma,0,(null),Lamarc,FEMALE
+404,C973,1,Bagsy Malone,0,(null),Lamarco,MALE
+405,C974,1,Times Prime,0,(null),Lamarcus,FEMALE
+406,C977,7,WES Casuals,Kindle,(null),Lamari,MALE
+407,C978,1,Xiaomi,0,(null),Lamarian,MALE
+408,C979,4,Philips,0,(null),Lamario,MALE
+409,C983,2,SanDisk,0,(null),Lamarius,MALE
+410,C984,1,Dollar Bigboss,0,(null),Lamark,FEMALE
+411,C985,9,Westsport,WES Casuals,(null),Lamarkus,FEMALE
+412,C986,13,Westside Home,0,(null),Lamarquis,FEMALE
+413,C989,2,Hitachi,0,(null),Lamarrion,MALE
+414,C992,2,Puma,0,(null),Lamauri,FEMALE
+415,C995,2,Tata Swach,0,(null),Lamberto,MALE
+416,C998,8,Ambrane,Homesake,(null),Lameek,MALE
+417,C999,1,Nokia,0,(null),Lameen,FEMALE
+418,C1000,1,ColorPlus,0,(null),Lameer,MALE
+419,C1001,2,Globus,Story@Home,(null),Lameir,FEMALE
+420,C1005,2,Westside Home,0,(null),Lamichael,FEMALE
+421,C1009,8,DDecor,0,(null),Lamin,FEMALE
+422,C1010,7,Portronics,0,(null),Lamine,FEMALE
+423,C1012,2,Skechers,0,(null),Lamoine,FEMALE
+424,C1013,1,Jaipur Kurti,0,(null),Lamon,MALE
+425,C1015,3,Philips,0,(null),Lamondo,MALE
+426,C1018,8,Sangam Prints,0,(null),Lamont,FEMALE
+427,C1019,3,Kraus,0,(null),Lamonta,FEMALE
+428,C1020,1,Philips,Boat,(null),Lamontae,MALE
+429,C1021,1,Indo Era,The Man Company,(null),Lamontay,MALE
+430,C1023,1,Gini & Jony,0,(null),Lamontez,FEMALE
+431,C1024,1,Malabar Gold and Diamonds,0,(null),Lamontray,MALE
+432,C1025,1,Cherokee,0,(null),Lamontre,FEMALE
+433,C1026,1,Xiaomi,0,(null),Lamor,MALE
+434,C1028,4,Wardrobe,0,(null),Lamount,FEMALE
+435,C1030,2,CASA de NEENEE,0,(null),Lamoyne,MALE
+436,C1032,2,Meizu,0,(null),Lanard,MALE
+437,C1033,2,Sangam Prints,0,(null),Lancaster,FEMALE
+438,C1034,2,Diza,adidas,(null),Lance,MALE
+439,C1035,15,Utsa,Puma,(null),Lancelot,FEMALE
+440,C1039,1,Utsa,Melorra,(null),Landan,FEMALE
+441,C1040,2,Khadi Essentials,0,(null),Landdon,MALE
+442,C1042,2,Lee,0,(null),Landell,MALE
+443,C1043,2,BORGES,Jockey,(null),Landen,MALE
+444,C1044,2,Samsung,0,(null),Landenn,FEMALE
+445,C1045,4,Lifelong,Fossil,(null),Lander,FEMALE
+446,C1047,8,Globus,0,(null),Landin,FEMALE
+447,C1052,1,Xiaomi,Noise,(null),Landric,MALE
+448,C1054,5,Zudio,Only,(null),Landris,FEMALE
+449,C1055,2,Red Tape,Studiowest,(null),Landrum,MALE
+450,C1058,1,Circle,0,(null),Landus,MALE
+451,C1059,1,Noise,0,(null),Landy,MALE
+452,C1060,2,Puma,0,(null),Landyn,FEMALE
+453,C1064,1,realme,0,(null),Lanford,MALE
+454,C1067,1,Puma,French Connection,(null),Lange,FEMALE
+455,C1071,7,realme,Infinity,(null),Lanier,MALE
+456,C1073,1,Xiaomi,0,(null),Lank,MALE
+457,C1077,5,Portronics,0,(null),Lannes,FEMALE
+458,C1083,1,Westsport,0,(null),Lanny,FEMALE
+459,C1084,2,Samsung,realme,(null),Lanoris,FEMALE
+460,C1086,1,FabAlley,0,(null),Lansana,MALE
+461,C1087,1,Bata,Apsis,(null),Lansing,MALE
+462,C1088,1,Intex,0,(null),Lanson,MALE
+463,C1090,9,Puma,0,(null),Lanty,FEMALE
+464,C1091,11,Voltas Beko,0,(null),Lantz,FEMALE
+465,C1092,2,Voltas,0,(null),Lanxton,FEMALE
+466,C1094,5,HP,adidas,(null),Lanz,FEMALE
+467,C1099,1,Duke,0,(null),Lapriest,MALE
+468,C1102,1,Syska,0,(null),Laquane,MALE
+469,C1106,16,Xiaomi,0,(null),Laquavion,MALE
+470,C1113,4,Clarks,0,(null),Laquincy,MALE
+471,C1120,1,SOLEPLAY,0,(null),Laramy,FEMALE
+472,C1122,1,Puma,0,(null),Laray,FEMALE
+473,C1123,2,Philips,SanDisk,(null),Larce,MALE
+474,C1126,2,Sangam Prints,0,(null),Larell,FEMALE
+475,C1128,4,True Blue,Livpure,(null),Larence,MALE
+476,C1131,1,Zudio,0,(null),Larey,FEMALE
+477,C1132,7,Zink London,0,(null),Larez,MALE
+478,C1134,1,Budding Bees,0,(null),Larion,MALE
+479,C1141,2,Red Tape,0,(null),Larnell,MALE
+480,C1142,6,Polycab,Edifier,(null),Larnelle,MALE
+481,C1144,1,Philips,0,(null),Larnie,MALE
+482,C1145,2,Ambrane,0,(null),Larobert,MALE
+483,C1150,4,Times Prime,Philips,(null),Larome,FEMALE
+484,C1154,1,Kingston,0,(null),Laronte,FEMALE
+485,C1159,1,Lee,0,(null),Larrell,MALE
+486,C1162,1,Titan,0,(null),Larrey,MALE
+487,C1163,1,Kingston,0,(null),Larrie,FEMALE
+488,C1166,3,Utsa,0,(null),Larron,FEMALE
+489,C1169,3,Apple,0,(null),Lars,MALE
+490,C1172,1,XP-Pen,0,(null),Larsson,MALE
+491,C1173,4,Hunkemoller,0,(null),Larvell,FEMALE
+492,C1175,1,Ambrane,0,(null),Larwence,MALE
+493,C1176,3,LOV,0,(null),Larwrence,FEMALE
+494,C1180,10,UnderJeans by Spykar,Hoka,(null),Lasalle,MALE
+495,C1181,1,Jaipur Kurti,0,(null),Lasana,MALE
+496,C1184,2,ALDO,Tohl,(null),Lasco,MALE
+497,C1186,1,GEOX,0,(null),Lasedrick,MALE
+498,C1193,3,The Vanca,0,(null),Lastat,MALE
+499,C1194,12,DDecor,0,(null),Laster,FEMALE
+500,C1207,1,Utsa,0,(null),Lateek,FEMALE
+501,C1211,4,Jockey,MMTC-PAMP,(null),Laterrance,MALE
+502,C1213,1,Nuon Men,0,(null),Laterrence,FEMALE
+503,C1216,1,Ajile by Pantaloons,0,(null),Laterrious,FEMALE
+504,C1222,2,VICTORINOX,0,(null),Lathe,MALE
+505,C1228,2,Nautica,0,(null),Latif,MALE
+506,C1233,1,Philips,0,(null),Latonio,MALE
+507,C1247,24,Park Avenue,Peter England,(null),Latrell,MALE
+508,C1249,1,Philips,0,(null),Latrevious,MALE
+509,C1251,4,Xiaomi,Ezviz,(null),Latrez,MALE
+510,C1253,6,Wunderlove,Zuba,(null),Latrone,FEMALE
+511,C1256,2,Philips,0,(null),Latwan,MALE
+512,C1260,2,Xiaomi,0,(null),Lauden,MALE
+513,C1262,1,Refoam,0,(null),Laughlin,MALE
+514,C1263,10,ETA,Wardrobe,(null),Laurance,MALE
+515,C1282,1,KENDALL + KYLIE,0,(null),Lavale,MALE
+516,C1286,1,LG,0,(null),Lavance,FEMALE
+517,C1289,1,Vark,0,(null),Lavante,FEMALE
+518,C1299,3,Wunderlove,0,(null),Lavell,FEMALE
+519,C1304,4,Aurelia,0,(null),Laver,MALE
+520,C1306,16,Puma,adidas,(null),Laverl,FEMALE
+521,C1320,1,Puma,0,(null),Lavor,FEMALE
+522,C1339,2,Times Prime,0,(null),Lawrenc,FEMALE
+523,C1348,1,adidas,Crocs,(null),Lawyer,MALE
+524,C1357,2,Aldo,0,(null),Laylen,MALE
+525,C1363,1,LACOSTE,0,(null),Layne,MALE
+526,C1370,1,Atomberg,0,(null),Laython,MALE
+527,C1372,2,Xiaomi,0,(null),Layton,MALE
+528,C1390,15,C9 Airwear,0,(null),Lb,MALE
+529,C1397,1,TP-LINK,0,(null),Lealan,MALE
+530,C1407,1,Philips,0,(null),Leandre,MALE
+531,C1425,1,Levi's,Puma,(null),Lebaron,FEMALE
+532,C1442,2,Baby Moo,0,(null),Ledarion,MALE
+533,C1446,1,Samsung,0,(null),Ledell,FEMALE
+534,C1450,1,Calvin Klein,0,(null),Ledion,MALE
+535,C1457,8,Philips,0,(null),Leeanthony,MALE
+536,C1484,2,WES Casuals,0,(null),Leevi,MALE
+537,C1487,2,Jockey,0,(null),Lefty,MALE
+538,C1491,1,Michael Kors,0,(null),Legion,MALE
+539,C1492,2,Red Tape,Yelloe,(null),Legolas,MALE
+540,C1510,1,Boat,0,(null),Leilan,MALE
+541,C1532,3,Miss Chase,0,(null),Lelind,MALE
+542,C1544,2,Samsung,Asics,(null),Lemarcus,FEMALE
+543,C1546,5,Arrow,0,(null),Lemario,MALE
+544,C1548,12,Amante,0,(null),Lemark,MALE
+545,C1549,2,AND,0,(null),Lemarr,MALE
+546,C1551,25,Utsa,Utsa,(null),Lemichael,FEMALE
+547,C1559,1,Nuon Men,0,(null),Swati,FEMALE
+548,C1561,2,Red Tape,0,(null),Nisha,MALE
+549,C1562,2,Xiaomi,0,(null),Akash,MALE
+550,C1563,1,Philips,0,(null),Abdul,MALE
+551,C1565,9,Mamaearth,0,(null),Shaurya,MALE
+552,C1566,2,GAP,0,(null),Neeraj,FEMALE
+553,C1568,1,HP,0,(null),Priya,FEMALE
+554,C1571,2,LOV,0,(null),Sushma,FEMALE
+555,C1573,6,Apple,0,(null),Ankit,MALE
+556,C1574,1,Lotto,0,(null),Neha,MALE
+557,C1575,5,LOV,Clarks,(null),Shiv,FEMALE
+558,C1576,3,Studiowest,0,(null),Abhishek,MALE
+559,C1580,3,Brooks Brothers,0,(null),Hira,MALE
+560,C1583,5,Xiaomi,0,(null),Sidra,MALE
+561,C1584,1,GAP,0,(null),Abhilash,FEMALE
+562,C1585,41,Gia,Biba,(null),Wilson,MALE
+563,C1586,2,Prolific,0,(null),Pepper,FEMALE
+564,C1587,1,Kingston,0,(null),Puneet,FEMALE
+565,C1590,4,Globus,Puma,(null),Ashok,FEMALE
+566,C1591,3,V-Guard,0,(null),Sanjay,MALE
+567,C1592,1,SMITCH,Clay Craft,(null),Harsimran,MALE
+568,C1593,3,Globus,Globus,(null),Sandeep,FEMALE
+569,C1594,8,Wunderlove,0,(null),Ankit,FEMALE
+570,C1595,1,Zudio,0,(null),Faizan,FEMALE
+571,C1596,1,Donuts,Malabar Gold and Diamonds,(null),Neha,MALE
+572,C1598,1,Reebok,Indo Era,(null),Mahesh,MALE
+573,C1600,2,French Connection,0,(null),Kanishk,MALE
+574,C1602,1,LUNA BLU,0,(null),Darsh,MALE
+575,C1606,2,Wunderlove,0,(null),vinod,FEMALE
+576,C1607,1,Apple,0,(null),Vishal,MALE
+577,C1608,1,Diesel,0,(null),Renu,MALE
+578,C1609,10,Utsa,Yufta,(null),Ajay,FEMALE
+579,C1610,3,Diza,0,(null),Srinivas,MALE
+580,C1618,1,CLiQsurance,0,(null),Ananth,FEMALE
+581,C1620,4,Bond Street by Red Tape,0,(null),Ashish,MALE
+582,C1621,4,Puma,Puma,(null),Satya,FEMALE
+583,C1624,1,Symphony,0,(null),Sayed,FEMALE
+584,C1625,1,Bosch,0,(null),Mohammed,MALE
+585,C1626,2,Globus,0,(null),Pavan,FEMALE
+586,C1628,4,Apple,0,(null),Sumit,MALE
+587,C1629,3,adidas,Royal Enfield,(null),Satyam,MALE
+588,C1633,4,IFB,0,(null),Yashwant,MALE
+589,C1634,5,Adidas Originals,New Breed,(null),Sundeep,MALE
+590,C1636,2,Utsa Kids,0,(null),Aarti,FEMALE
+591,C1641,1,Mufti,Cultsport,(null),Chirag,MALE
+592,C1644,6,Nuon Men,Skagen,(null),Vaibhav,FEMALE
+593,C1645,5,Gia,0,(null),Ronak,MALE
+594,C1646,3,WES Formals,Sony,(null),Preeti,FEMALE
+595,C1649,14,Westside Home,Westside Home,(null),Anita,FEMALE
+596,C1651,4,Xiaomi,0,(null),Pritam,MALE
+597,C1652,4,Janasya,Rangriti,(null),Gaurav,MALE
+598,C1653,1,adidas,0,(null),Koushik,MALE
+599,C1654,1,ID,0,(null),Amit,MALE
+600,C1655,1,Puma,0,(null),Sachin,FEMALE
+601,C1656,2,adidas,0,(null),Rahul,MALE
+602,C1659,2,Meyer,0,(null),Rishabh,MALE
+603,C1660,1,Puma,0,(null),Tanvir,FEMALE
+604,C1661,3,LOV,LOV,(null),Shahid,FEMALE
+605,C1662,1,Samsung,W,(null),Sahil,FEMALE
+606,C1664,1,Xiaomi,0,(null),Prabhat,MALE
+607,C1665,2,Croma,0,(null),Mitesh,FEMALE
+608,C1669,1,Aldo,0,(null),Manish,MALE
+609,C1670,1,Canon,0,(null),Preeti,MALE
+610,C1671,1,Clovia,Living Roots,(null),Deepak,MALE
+611,C1674,1,Ruosh,0,(null),Arun,MALE
+612,C1676,9,Puma,0,(null),Nitish,FEMALE
+613,C1677,10,Utsa,Biba,(null),Stanly,FEMALE
+614,C1678,2,CATZ,0,(null),Vikram,FEMALE
+615,C1683,1,Ruosh,0,(null),RAMAN,MALE
+616,C1684,2,Fastrack,0,(null),Annie,MALE
+617,C1687,2,Westside Home,0,(null),Sandeep,FEMALE
+618,C1688,5,LOV,0,(null),Jennifer,FEMALE
+619,C1689,2,Westside Home,0,(null),Pranav,FEMALE
+620,C1694,2,Marshall,0,(null),Yogesh,MALE
+621,C1695,2,Hisense,0,(null),Ashish,MALE
+622,C1696,8,LOV,CAT,(null),Suman,FEMALE
+623,C1698,1,Samsung,0,(null),Atul,FEMALE
+624,C1703,3,Portronics,0,(null),Neha,FEMALE
+625,C1706,1,Nuon Men,0,(null),Sudip,FEMALE
+626,C1707,5,Apple,0,(null),Lalit,MALE
+627,C1708,5,Utsa,0,(null),Ashutosh,FEMALE
+628,C1712,3,AND,0,(null),Anupam,MALE
+629,C1713,1,Sony,0,(null),Sai,FEMALE
+630,C1714,1,zunpulse,0,(null),Sushant,MALE
+631,C1716,1,Juniper,0,(null),Renu,MALE
+632,C1718,1,Puma,0,(null),Hasitha,FEMALE
+633,C1720,3,Valencia,0,(null),Rakesh,MALE
+634,C1722,1,Samsung,0,(null),Ajay,FEMALE
+635,C1724,3,Panasonic,0,(null),Devyani,FEMALE
+636,C1725,3,Westside Home,Raymond,(null),Sharath,FEMALE
+637,C1728,1,Lloyd,Boat,(null),ASIF,MALE
+638,C1730,1,G-Shock,0,(null),Navin,MALE
+639,C1731,1,Apple,0,(null),Himanshu,MALE
+640,C1732,1,Xiaomi,Xiaomi,(null),Nipun,MALE
+641,C1733,1,Reebok,Vandelay,(null),Ashok,MALE
+642,C1736,1,Tommy Hilfiger,ETA,(null),Archana,MALE
+643,C1740,2,Xiaomi,0,(null),Sandeep,MALE
+644,C1745,1,Vark,0,(null),Vijay,FEMALE
+645,C1747,2,Zuba,0,(null),Sheetal,MALE
+646,C1748,11,Studiofit Women,0,(null),Ann,FEMALE
+647,C1750,8,Y&F,Ethnovogue,(null),Santosh,MALE
+648,C1753,1,Utsa,Rocia,(null),Ram,FEMALE
+649,C1754,2,Voltas,0,(null),govind,FEMALE
+650,C1756,4,Diesel,0,(null),Shweta,MALE
+651,C1757,3,Clovia,Spykar,(null),Sumit,MALE
+652,C1763,1,Acer,0,(null),Kaushal,MALE
+653,C1764,3,LetsShave,0,(null),Saanya,MALE
+654,C1765,2,Red Tape,Aldo,(null),Surbhi,MALE
+655,C1766,5,Voltas,0,(null),Kamran,FEMALE
+656,C1767,1,Utsa,Aks,(null),Sheik,FEMALE
+657,C1774,4,Vedix,0,(null),Pratyush,MALE
+658,C1776,4,Vero Moda,0,(null),Ramandeep,MALE
+659,C1778,1,Samsung,Puma,(null),Manish,FEMALE
+660,C1780,1,Cole Haan,0,(null),Vivek,MALE
+661,C1783,2,Zudio,0,(null),Harsh,FEMALE
+662,C1784,4,Gini & Jony,Jack & Jones Junior,(null),Amita,FEMALE
+663,C1789,2,Toshiba,0,(null),Kriti,MALE
+664,C1792,6,Ed-a-Mamma,W,(null),Anand,FEMALE
+665,C1794,1,Philips,0,(null),Pranitha,MALE
+666,C1795,1,Vark,0,(null),Chetan,FEMALE
+667,C1797,2,Spykar,New Balance,(null),Jayant,MALE
+668,C1799,1,Xiaomi,0,(null),Ravi,MALE
+669,C1800,5,Zuba,0,(null),Vishal,MALE
+670,C1801,5,Bombay Paisley,0,(null),Rakesh,FEMALE
+671,C1804,1,SanDisk,0,(null),Manish,MALE
+672,C1805,4,Kara,0,(null),Dhiraj,MALE
+673,C1808,1,Xiaomi,0,(null),Sapan,MALE
+674,C1809,3,Jockey,0,(null),Mahesh,MALE
+675,C1814,1,STARBUCKS,0,(null),Priyanka,MALE
+676,C1815,2,Bianca,0,(null),Deepak,MALE
+677,C1816,3,Vark,0,(null),Yogesh,FEMALE
+678,C1817,8,Lacoste,0,(null),Anu,MALE
+679,C1825,4,Juniper,0,(null),Ankur,MALE
+680,C1826,2,Westside Home,Biba,(null),Neha,FEMALE
+681,C1828,1,XYXX,0,(null),Sunil,MALE
+682,C1830,4,Whirlpool,0,(null),Shubham,MALE
+683,C1832,1,Zudio,Wardrobe,(null),Kumar,FEMALE
+684,C1834,1,Utsa,0,(null),Om,FEMALE
+685,C1836,1,Lapis Bard,0,(null),Nitin,MALE
+686,C1839,2,Philips,Mochi,(null),Saurabh,MALE
+687,C1841,1,Utsa,Twenty Dresses,(null),Swapnil,FEMALE
+688,C1842,1,Malabar Gold and Diamonds,0,(null),Ravi,MALE
+689,C1845,5,Globus,Philips,(null),Gagan,FEMALE
+690,C1847,1,Weststreet,0,(null),Tarun,MALE
+691,C1848,5,Philips,Skechers,(null),Aditya,MALE
+692,C1849,1,Portico New York,0,(null),Arun,MALE
+693,C1850,2,Wunderlove,0,(null),Siva,FEMALE
+694,C1851,1,Whirlpool,0,(null),Sandesh,MALE
+695,C1852,7,GAP,Jack & Jones,(null),Vedant,FEMALE
+696,C1854,4,Wunderlove,0,(null),Prashant,FEMALE
+697,C1858,1,Crocs,0,(null),Mallika,FEMALE
+698,C1859,5,Puma,adidas,(null),Abu,FEMALE
+699,C1860,1,Casio,0,(null),Anirudh,FEMALE
+700,C1861,2,Utsa,0,(null),Rita,FEMALE
+701,C1862,1,HP,0,(null),Arun,FEMALE
+702,C1863,1,Utsa,0,(null),Dinesh,FEMALE
+703,C1864,1,Boat,0,(null),Sahil,MALE
+704,C1874,2,Jockey,0,(null),Shubham,MALE
+705,C1875,12,Biba,0,(null),Divya,MALE
+706,C1877,1,Zudio,0,(null),Tanya,FEMALE
+707,C1878,2,Hoka,Woodland,(null),Sonal,MALE
+708,C1880,2,Levi's,0,(null),Ajay,FEMALE
+709,C1881,2,Campus,0,(null),Vipul,MALE
+710,C1882,1,Old Spice,0,(null),Nirmala,FEMALE
+711,C1883,1,Red Tape,0,(null),Aamir,MALE
+712,C1884,1,Jack & Jones,0,(null),Sanjay,MALE
+713,C1887,6,Boat,0,(null),Venkat,MALE
+714,C1890,1,Puma,0,(null),Jaidev,FEMALE
+715,C1892,1,realme,0,(null),Vipul,MALE
+716,C1894,2,Bombay Paisley,0,(null),Sudhir,FEMALE
+717,C1896,2,realme,0,(null),Manoj,MALE
+718,C1898,1,CATZ,0,(null),Krishma,FEMALE
+719,C1899,7,Tales & Stories,0,(null),Sarthak,MALE
+720,C1900,1,Hangup,Puma,(null),Uday,MALE
+721,C1903,2,Peter England,0,(null),Aparna,MALE
+722,C1904,1,Wunderlove,Wardrobe,(null),Kalpana,FEMALE
