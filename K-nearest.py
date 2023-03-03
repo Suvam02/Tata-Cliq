@@ -41,6 +41,10 @@ new_test_vec = vectorizer.transform(new_test)
 predictions = classifier.predict(new_test_vec)
 print(f'Predictions: {predictions}')
 
+from sklearn.metrics import confusion_matrix, accuracy_score
+cm = confusion_matrix(y_test, classifier.predict(X_test_vec))
+print(cm)
+
 t=pd.read_csv('test copy.csv')
 t['Gender']=predictions
 t.to_csv('test copy.csv')
