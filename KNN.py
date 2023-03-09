@@ -27,7 +27,7 @@ X_test_vec = vectorizer.transform(X_test)
 
 # Train a KNN classifier on the training data
 from sklearn.neighbors import KNeighborsClassifier
-classifier = KNeighborsClassifier(n_neighbors = 1, metric = 'minkowski', p = 3)
+classifier = KNeighborsClassifier(n_neighbors = 1, metric = 'minkowski', p = 2)
 classifier.fit(X_train_vec, y_train)
 
 
